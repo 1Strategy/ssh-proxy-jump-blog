@@ -15,7 +15,7 @@ in your AWS account.
 
 ## Bastion Host Architecture
 
-![Bastion host in public subnet, EC2 instance in private subnet](linux-bastion-hosts-on-aws-architecture.png "Bastion Host Architecture")
+![Bastion host in public subnet, EC2 instance in private subnet](./linux-bastion-hosts-on-aws-architecture.png "Bastion Host Architecture")
 
 ## Easier SSH tunneling
 
